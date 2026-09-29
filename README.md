@@ -5,8 +5,8 @@
 ## Business Problem
 Delivery times on our on-demand platform have surged over the past quarter and customer complaints are rising. Management needs to know whether the bottleneck is **kitchen prep delays, traffic/transit time, or peak hours**.
 
-## 🔗 Live Dashboard
-**[View the interactive dashboard on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+## 🔗  Dashboard
+
 
 ![Dashboard screenshot](images/dashboard.png)
 
