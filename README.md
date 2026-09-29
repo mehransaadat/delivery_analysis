@@ -1,3 +1,5 @@
+<img width="1917" height="1046" alt="Dashboard" src="https://github.com/user-attachments/assets/880317fc-03af-409d-b6e4-fe495555daf8" />
+
 # 🛵 Last-Mile Delivery Performance & Delay Analysis
 
 **Python (Pandas, NumPy) · Tableau Public · Jupyter**
@@ -6,9 +8,9 @@
 Delivery times on our on-demand platform have surged over the past quarter and customer complaints are rising. Management needs to know whether the bottleneck is **kitchen prep delays, traffic/transit time, or peak hours**.
 
 ## 🔗  Dashboard
+<img width="1917" height="1046" alt="Dashboard" src="https://github.com/user-attachments/assets/54450f7f-8c5c-4705-8c6e-bcbc2f8fae44" />
 
 
-![Dashboard screenshot](images/dashboard.png)
 
 
 ## Key Insights
